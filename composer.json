@@ -1,0 +1,17 @@
+{
+	"name": "laravel-shopify/Shopify",
+	"description": "Shopify O-auth Class.",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "GD-APPS",
+			"email": "gdphpdeveloper@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.6"
+	},
+	"autoload": {
+		"files": ["src/Shopifyauth.php"]
+	}
+}
