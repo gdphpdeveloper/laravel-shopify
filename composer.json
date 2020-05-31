@@ -1,5 +1,5 @@
 {
-	"name": "laravel-shopify",
+	"name": "laravel-shopify/shopify",
 	"description": "Shopify O-auth Class.",
 	"license": "MIT",
 	"authors": [
